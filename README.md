@@ -14,9 +14,13 @@ all other information regarding my identify is **[confidential]**. you may reque
 
 ## connect
 
-i will not reveal the means to contact me through these channels in public, though you can technically find some, if you probe deep enough. to establish communication, contact me via **[email]**, refer to my [github profile](https://github.com/LordVertice). if you do not feel safe using email, i provided means of secure communication via insecure channels in the section below. using those, you can reach out to me using any public or untrusted channel of your choosing, as long as you can get my attention.
+i will not reveal my usernames on these channels in public, though you can technically find or guess some, if you probe deep enough. good job if you managed to do that.
+
+to establish communication, contact me via **[email]**, refer to my [github profile](https://github.com/LordVertice). if you do not feel safe using email, i provided means of secure communication through insecure channels in the section below. using those, you can reach out to me using any public or untrusted channel of your choosing, as long as you can get my attention.
 
 but then again, why are you even here if you don't already have a connection with me? after all, that's one of the few ways you would've found this place. just use your existing connection to converse or establish more connections.
+
+~ *i predict that you are most likely coming from discord or vrchat. use that to connect with me on other channels, if you wish* ~
 
 available channels for communication:
 - discord.com (most active)
