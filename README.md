@@ -59,8 +59,8 @@ if you just found me, it likely wouldn't matter, but if we're friends without an
 	DA30 E0F2 EE21 0581 3D44 CB2E 66DC AAE3 EB2A FD7C
 ***
 
-i keep the private part of these keypairs *very safe*. if you see a valid signify signature for that key, that message is surely mine. if you encrypt something using the age key, only i will be able to read it. the gpg keypair is reasonably safe too, but i'm phasing it out of use. i won't revoke it unless compromised, yet it is not preferred.
+i keep the private part of these keypairs *very safe*. if you see a valid signify signature for that key, that message is surely mine. if you encrypt something using the age key, only i will be able to read it. the gpg keypair is reasonably safe too, but i'm phasing it out of use. i won't revoke it unless compromised, but it is not preferred.
 
-if you need to verify my identify, please feel free to challenge me to prove it with a signature, and assume the worst if i refuse. additionally, you can use the age key to send me a message through an insecure channel, in order to establish a connection through something like element.
+if you need to verify my identify, please feel free to challenge me to prove it with a signature, and assume the worst if i refuse.
 
 this is certainly overkill, but it never hurts to be prepared. i encourage you to learn these tools, too.
