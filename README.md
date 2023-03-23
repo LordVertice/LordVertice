@@ -4,13 +4,18 @@ welcome. this page contains all information i wish to make public about myself.
 
 ～　ｓｏｌ　ｏｎｓｅｔ　ｓｅｃｔｏｌ　～
 
+
 ## identity
 
-you may call me vertice, vert, or v.
-
+you may call me vertice, vert, or v.  
 sounds like "vertis", not "vert-ice" or "vertease". ipa: /ˈvɝtɪs/ (approx.)
 
-all other information regarding my identify is **[confidential]**. you may request more data by establishing a connection to one or multiple of the channels listed below.
+addressing me as "lord" is **[acceptable]**, but *not* preferred. (however, you may use it freely if you struggle to pronounce my preferred name, or if that sounds too similar to the name of a different user who is present.)
+
+i currently use the timezone `CET (UTC＋1)`. take that as you will.
+
+~ *all other information regarding my identify is **[confidential]**. you may request more data by establishing a connection to one or multiple of the channels listed below.* ~
+
 
 ## connect
 
@@ -34,6 +39,11 @@ alternative (unmaintained) channels:
 - instagram
 
 i am present on several other platforms, but only those usable for communication are listed here.
+
+***
+*the section below likely contains more complex data than you are equipped for.*  
+***recommendation:** make necessary adjustments and continue forward with an open mind.*
+***
 
 ## connect securely, and/or verify my identify
 
