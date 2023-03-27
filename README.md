@@ -26,7 +26,7 @@ addressing me as "lord" is **[acceptable]**, but *not* preferred. (however, you 
 
 i currently use the timezone `CEST (UTC＋2)`. take that as you will.
 
-~ *all remaining information regarding my identify is **[confidential]**, but i encourage you to probe deeper. you may request more data by establishing a connection to one or multiple of the channels listed below.* ~
+~ *all remaining information regarding my identity is **[confidential]**, but i encourage you to probe deeper. you may request more data by establishing a connection to one or multiple of the channels listed below.* ~
 
 
 ## connect
