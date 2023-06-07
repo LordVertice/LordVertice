@@ -33,7 +33,7 @@ i currently use the timezone `CEST (UTC＋2)`. to ease conversion: my midnight (
 
 i will not reveal my exact usernames here, but you might guess or otherwise find some if you probe deeper.
 
-otherwise, to establish an innitial connection contact me via **[email]**, refer to my [github profile](https://github.com/LordVertice) to find the address (you must be logged in). if you do not feel safe using email or if you don't want to log in, probe deeper to find a different connection point, or go to the section below.
+otherwise, to establish an initial connection contact me via **[email]**, ~~refer to my [github profile](https://github.com/LordVertice) to find the address (you must be logged in)~~. if you do not feel safe using email or if you don't want to log in, probe deeper to find a different connection point, or go to the section below.
 
 but then again, why are you even here if you don't already have a connection with me? after all, that's one of the few ways you would've found this place!
 
@@ -58,7 +58,7 @@ i am present on several other platforms, but only those usable for communication
 ***
 ### achtung
 *the section below likely contains more complex data than you are equipped for.*  
-***recommendation:** make necessary adjustments and continue forward with an open mind, or [retreat](#information-on-lord-vertice) now.*
+***recommendation:** make necessary adjustments and continue forward, or [return](#information-on-lord-vertice) now.*
 ***
 &nbsp;  
 &nbsp;  
