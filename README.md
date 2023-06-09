@@ -24,9 +24,9 @@ it sounds like "vertis", not "vert-ice" or "vertease". ipa: /ˈvɝtɪs/ (approx.
 
 addressing me as "lord" or "lord vertice" is tolerable, but *not* preferred. i will keep that title in usernames for legacy reasons, but will be removing it from my important display names where possible.
 
-you might also know me as [encoded|39;00ffff]. if you do, then addressing me as that is acceptable, in some cases even encouraged.
+you might also know me as **[encoded|39;00ffff]**. if you do, then addressing me as that is acceptable, in some cases even encouraged.
 
-my pronouns are [redacted]. (you have the necessary clearance, feel free to request this information manually. until then, i feel indifferent about it, though i'm most used to the "default")
+my pronouns are **[redacted]**. (you have the necessary clearance, feel free to request this information manually. until then, i feel indifferent about it, though i'm most used to the "default")
 
 i currently use the timezone `CEST (UTC＋2)`. to ease conversion: my midnight (00:00) is at 17:00 (5 PM) in `CDT (UTC-5)` (US central time).
 
@@ -95,7 +95,7 @@ if you just found me, all this likely wouldn't matter to you, but if we're frien
 	DA30 E0F2 EE21 0581 3D44 CB2E 66DC AAE3 EB2A FD7C
 ***
 
-i keep the private part of these keypairs *[very safe]*. that means you can be certain that a valid signature really belongs to me, and that only i can decrypt your messages. the gpg keypair is secure too, but i'm phasing it out of use. i won't revoke it unless compromised, but it shouldn't be used regardless.
+i keep the private part of these keypairs *very safe*. that means you can be certain that a valid signature really belongs to me, and that only i can decrypt your messages. the gpg keypair is secure too, but i'm phasing it out of use. i won't revoke it unless compromised, but it shouldn't be used regardless.
 
 if you need to verify my identify, please challenge me to sign a message you give me, and assume the worst if "i" refuse.
 
