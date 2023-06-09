@@ -10,7 +10,7 @@
 
 &nbsp;
 
-# information on [Lord Vertice]
+# information on [~~Lord~~ Vertice]
 
 welcome. this page contains all information i wish to make public about myself.
 
@@ -22,20 +22,24 @@ welcome. this page contains all information i wish to make public about myself.
 you may call me vertice, vert, or v.  
 it sounds like "vertis", not "vert-ice" or "vertease". ipa: /ˈvɝtɪs/ (approx.)
 
-addressing me as "lord" is acceptable, but *not* preferred. however, you may do so if you struggle with pronouncing "vertice", or if that sounds too similar to the designation of a different present user.
+addressing me as "lord" or "lord vertice" is tolerable, but *not* preferred. i will keep that title in usernames for legacy reasons, but will be removing it from my important display names where possible.
+
+you might also know me as [encoded|39;00ffff]. if you do, then addressing me as that is acceptable, in some cases even encouraged.
+
+my pronouns are [redacted]. (you have the necessary clearance, feel free to request this information manually. until then, i feel indifferent about it, though i'm most used to the "default")
 
 i currently use the timezone `CEST (UTC＋2)`. to ease conversion: my midnight (00:00) is at 17:00 (5 PM) in `CDT (UTC-5)` (US central time).
 
-~ *all remaining information regarding my identity is **[confidential]**, but i encourage you to probe deeper. you may request more data by establishing a connection to one or multiple of the channels listed below.* ~
+~ *all remaining information regarding my identity is **[confidential]**, but i encourage you to probe deeper. you may request more data by establishing a connection to one or multiple of the channels listed below* ~
 
 
 ## connect
 
 i will not reveal my exact usernames here, but you might guess or otherwise find some if you probe deeper.
 
-otherwise, to establish an initial connection contact me via **[email]**, ~~refer to my [github profile](https://github.com/LordVertice) to find the address (you must be logged in)~~. if you do not feel safe using email or if you don't want to log in, probe deeper to find a different connection point, or go to the section below.
+otherwise, to establish an initial connection contact me via **[email]**, ~~refer to my [github profile](https://github.com/LordVertice) to find the address (you must be logged in)~~. if you do not feel safe using email or if you don't want to log in, probe deeper to find a different connection point, or go to the section below. *(my email is currently not visible. a solution will be devised in time)*
 
-but then again, why are you even here if you don't already have a connection with me? after all, that's one of the few ways you would've found this place!
+but then again, why are you here if you don't already have a connection with me? after all, that's one of the only ways you could've found this place!
 
 ~ *i predict that you are most likely coming from discord or vrchat. use that to connect with me on other channels, if you wish* ~
 
@@ -46,7 +50,7 @@ available channels for communication:
 - guilded.gg
 - revolt.chat
 
-alternative (unmaintained) channels: (these are still helpful if you want to reach out to me without email, especially twitter)
+other (mostly unmaintained) channels:
 - twitter
 - instagram
 
@@ -57,7 +61,7 @@ i am present on several other platforms, but only those usable for communication
 &nbsp;  
 ***
 ### achtung
-*the section below likely contains more complex data than you are equipped for.*  
+*the section below likely contains more complex data than you are prepared for.*  
 ***recommendation:** make necessary adjustments and continue forward, or [return](#information-on-lord-vertice) now.*
 ***
 &nbsp;  
