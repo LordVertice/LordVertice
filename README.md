@@ -10,7 +10,7 @@
 
 &nbsp;
 
-# information on [~~Lord~~ Vertice]
+# information on [Vertice]
 
 welcome. this page contains all information i wish to make public about myself.
 
@@ -20,15 +20,16 @@ welcome. this page contains all information i wish to make public about myself.
 ## identity
 
 you may call me vertice, vert, or v.  
-it sounds like "vertis", not "vert-ice" or "vertease". ipa: /ˈvɝtɪs/ (approx.)
+it sounds like "vertis", not "vert-ice" or "vertease". ipa: `/ˈvɝtɪs/` (approx.)
 
 addressing me as "lord" or "lord vertice" is tolerable, but *not* preferred. i will keep that title in usernames for legacy reasons, but will be removing it from my important display names where possible.
 
-you might also know me as **[encoded|39;00ffff]**. if you do, then addressing me as that is acceptable, in some cases even encouraged.
+you might also know me as **[encoded;39//0x00ffff]**. if you do, then addressing me as that is acceptable, in some cases even encouraged.
 
-my pronouns are **[redacted]**. (you have the necessary clearance, feel free to request this information manually. until then, i feel indifferent about it, though i'm most used to the "default")
+pronouns: **[redacted]**. (you have the required clearance, so feel free to request this information manually)
 
-i currently use the timezone `CEST (UTC＋2)`. to ease conversion: my midnight (00:00) is at 17:00 (5 PM) in `CDT (UTC-5)` (US central time).
+current timezone: `CEST (UTC＋2)`. to ease conversion: my midnight (00:00) is at 17:00 (5 PM) in `CDT (UTC-5)` (US central time).  
+*(**not** guaranteed to be synced with daylight savings at all times)*
 
 ~ *all remaining information regarding my identity is **[confidential]**, but i encourage you to probe deeper. you may request more data by establishing a connection to one or multiple of the channels listed below* ~
 
