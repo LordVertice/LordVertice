@@ -1,16 +1,16 @@
 ***
 
-<div style="text-align: center;">
+<div align="center">
 <p>Ｙｏｕ’ｒｅ　ｉｎ　ｔｈｅ　ｋｎｏｗ，　ｒｉｇｈｔ？</p>
-<p>&nbsp;</p>
+<br>
 <p>．　．　．</p>
-<p>&nbsp;</p>
+<br>
 <p>Ｔｒａｎｓｍｉｔｔｉｎｇ　ｄａｔａ　ｎｏｗ．．．</p>
 </div>
 
 ***
 
-&nbsp;
+<br>
 
 
 # information on [Vertice]
@@ -60,20 +60,22 @@ other (mostly unmaintained) channels:
 
 i am present on several other platforms, but only those usable for communication are listed here.
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
+<br>
+<br>
+<br>
+
 ***
 ### achtung
 *the section below likely contains more complex data than you are prepared for.*  
 ***recommendation:** make necessary adjustments and continue forward, or [return](#information-on-lord-vertice) now.*
 ***
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## connect securely, and/or verify my identify
 
@@ -106,15 +108,15 @@ if you need to verify my identify, please challenge me to sign a message you giv
 this is all certainly overkill, but it never hurts to be prepared. i encourage you to learn these tools, too.
 
 
-&nbsp;
+<br><br><br>
 
 ***
 
-<div style="text-align: center;">
-<p>Ｆｕｒｔｈｅｒ　ｉｎｆｏｒｍａｔｉｏｎ　ｍａｙ　ｂｅ<br>ｒｅｑｕｅｓｔｅｄ　ｔｈｒｏｕｇｈ　ａ　ｄｉｒｅｃｔ<br>ｃｏｎｎｅｃｔｉｏｎ　ｗｉｔｈ　［Ｖｅｒｔｉｃｅ］．</p>
-<p>&nbsp;</p>
+<div align="center">
+<p>Ｆｕｒｔｈｅｒ　ｉｎｆｏｒｍａｔｉｏｎ　ｍａｙ　ｂｅ　ｒｅｑｕｅｓｔｅｄ　ｔｈｒｏｕｇｈ<br>ａ　ｄｉｒｅｃｔ　ｃｏｎｎｅｃｔｉｏｎ　ｗｉｔｈ　［Ｖｅｒｔｉｃｅ］．</p>
+<br>
 <p>．　．　．</p>
-<p>&nbsp;</p>
+<br>
 <p>Ｅｎｄｉｎｇ　ｄａｔａ　ｓｔｒｅａｍ．</p>
 </div>
 
