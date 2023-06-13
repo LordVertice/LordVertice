@@ -1,14 +1,17 @@
-Ｙｏｕ’ｒｅ　ｉｎ　ｔｈｅ　ｋｎｏｗ，　ｒｉｇｈｔ？
+***
+
+<div style="text-align: center;">
+<p>Ｙｏｕ’ｒｅ　ｉｎ　ｔｈｅ　ｋｎｏｗ，　ｒｉｇｈｔ？</p>
+<p>&nbsp;</p>
+<p>．　．　．</p>
+<p>&nbsp;</p>
+<p>Ｔｒａｎｓｍｉｔｔｉｎｇ　ｄａｔａ　ｎｏｗ．．．</p>
+</div>
+
+***
 
 &nbsp;
 
-．　．　．
-
-&nbsp;
-
-Ｔｒａｎｓｍｉｔｔｉｎｇ　ｄａｔａ　ｎｏｗ．．．
-
-&nbsp;
 
 # information on [Vertice]
 
@@ -101,3 +104,18 @@ i keep the private part of these keypairs *very safe*. that means you can be cer
 if you need to verify my identify, please challenge me to sign a message you give me, and assume the worst if "i" refuse.
 
 this is all certainly overkill, but it never hurts to be prepared. i encourage you to learn these tools, too.
+
+
+&nbsp;
+
+***
+
+<div style="text-align: center;">
+<p>Ｆｕｒｔｈｅｒ　ｉｎｆｏｒｍａｔｉｏｎ　ｍａｙ　ｂｅ<br>ｒｅｑｕｅｓｔｅｄ　ｔｈｒｏｕｇｈ　ａ　ｄｉｒｅｃｔ<br>ｃｏｎｎｅｃｔｉｏｎ　ｗｉｔｈ　［Ｖｅｒｔｉｃｅ］．</p>
+<p>&nbsp;</p>
+<p>．　．　．</p>
+<p>&nbsp;</p>
+<p>Ｅｎｄｉｎｇ　ｄａｔａ　ｓｔｒｅａｍ．</p>
+</div>
+
+***
