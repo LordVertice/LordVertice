@@ -71,7 +71,7 @@ if you see something up there you don't recognize, feel free to ask me about it~
 
 <div align="center">
 <p>Ｔｈｅ　ｒｅｓｔ　ｏｆ　ｔｈｉｓ　ｄａｔａ　ｓｔｒｅａｍ　ｃｏｎｔａｉｎｓ　ａｄｖａｎｃｅｄ　ｉｎｓｔｒｕｃｔｉｏｎｓ．</p>
-<p>Ｍｏｖｉｎｇ　ｐａｓｔ　ｔｈｉｓ　ｐｏｉｎｔ　ｍａｙ　ｒｅｓｕｌｔ　ｉｎ　ｐｒｏｂｅ　ｄａｍａｇｅ　ｏｒ　ｂｏｒｅｄｏｍ．</p>
+<p>Ｍｏｖｉｎｇ　ｐａｓｔ　ｔｈｉｓ　ｐｏｉｎｔ　ｍａｙ　ｒｅｓｕｌｔ<br>ｉｎ　ｐｒｏｂｅ　ｄａｍａｇｅ　ｏｒ　ｂｏｒｅｄｏｍ．</p>
 <p>Ｐｒｏｃｅｅｄ　ｗｉｔｈ　ｃａｕｔｉｏｎ，　ｏｒ　<a href="#information-on-vertice">ｒｅｔｕｒｎ．</a></p>
 <br>
 <p>．　．　．</p>
